@@ -17,4 +17,4 @@ Este proyecto nace de la necesidad de optimizar la gestión de datos en la ingen
 ## 📈 Antes y Después
 | ANTES (Datos Sucios) | DESPUÉS (Reporte Automatizado) |
 | :---: | :---: |
-| ![Antes](Screensots/Desordenados.png) | ![Después](Screenshots/Limpio.png)
+| ![Antes](Screensots/Desordenado.png) | ![Después](Screenshots/Limpio.png)
